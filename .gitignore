@@ -1,0 +1,13 @@
+.venv/
+dataset/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+*.pth
+*.pt
+*.h5
+*.onnx
+
+.vscode/
